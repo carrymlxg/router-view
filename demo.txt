@@ -1,0 +1,1 @@
+[{"id": "1", "content": "全局配置", "pid": "0"},{"id":2,"content":"silent","pid":"1"},{"id":"3","content":"devtools","pid":"1"},{"id":"4","content":"选项/数据","pid":"0"},{"id":"5","content":"data","pid":"4"}]
